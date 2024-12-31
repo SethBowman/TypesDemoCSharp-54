@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\bin\Debug\net8.0\TypesDemoCSharp-54.exe
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\bin\Debug\net8.0\TypesDemoCSharp-54.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\bin\Debug\net8.0\TypesDemoCSharp-54.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\bin\Debug\net8.0\TypesDemoCSharp-54.dll
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\bin\Debug\net8.0\TypesDemoCSharp-54.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\obj\Debug\net8.0\TypesDemoCSharp-54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\obj\Debug\net8.0\TypesDemoCSharp-54.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\obj\Debug\net8.0\TypesDemoCSharp-54.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\obj\Debug\net8.0\TypesDemoCSharp-54.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\obj\Debug\net8.0\TypesDemoCSharp-54.dll
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\obj\Debug\net8.0\refint\TypesDemoCSharp-54.dll
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\obj\Debug\net8.0\TypesDemoCSharp-54.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\obj\Debug\net8.0\TypesDemoCSharp-54.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\TypesDemoCSharp-54\TypesDemoCSharp-54\obj\Debug\net8.0\ref\TypesDemoCSharp-54.dll
